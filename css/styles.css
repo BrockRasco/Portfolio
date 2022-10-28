@@ -21,7 +21,7 @@
   --bs-green: #198754;
   --bs-teal: #20c997;
   --bs-cyan: #0dcaf0;
-  --bs-white: #000000;
+  --bs-white: #fff;
   --bs-gray: #6c757d;
   --bs-gray-dark: #343a40;
   --bs-gray-100: #f8f9fa;
@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #212529;
-  --bs-body-bg: #212529;
+  --bs-body-bg: #fff;
 }
 
 *,
@@ -283,7 +283,7 @@ a > code {
 kbd {
   padding: 0.2rem 0.4rem;
   font-size: 0.875em;
-  color: #212529;
+  color: #fff;
   background-color: #212529;
   border-radius: 0.2rem;
 }
@@ -606,7 +606,7 @@ progress {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #212529;
+  background-color: #fff;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
