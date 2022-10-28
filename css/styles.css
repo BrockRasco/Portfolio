@@ -40,7 +40,7 @@
   --bs-warning: #ffc800;
   --bs-danger: #dc3545;
   --bs-light: #f8f9fa;
-  --bs-dark: #1f2021;
+  --bs-dark: #212529;
   --bs-primary-rgb: 255, 200, 0;
   --bs-secondary-rgb: 108, 117, 125;
   --bs-success-rgb: 25, 135, 84;
@@ -61,7 +61,7 @@
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
   --bs-body-color: #fff;
-  --bs-body-bg: #1f2021;
+  --bs-body-bg: #212529;
 }
 
 *,
@@ -216,7 +216,7 @@ small, .small {
 
 mark, .mark {
   padding: 0.2em;
-  background-color: #1f2021;
+  background-color: #fcf8e3;
 }
 
 sub,
@@ -284,7 +284,7 @@ kbd {
   padding: 0.2rem 0.4rem;
   font-size: 0.875em;
   color: #fff;
-  background-color: #1f2021;
+  background-color: #212529;
   border-radius: 0.2rem;
 }
 kbd kbd {
@@ -606,7 +606,7 @@ progress {
 
 .img-thumbnail {
   padding: 0.25rem;
-  background-color: #1f2021;
+  background-color: #fff;
   border: 1px solid #dee2e6;
   border-radius: 0.25rem;
   max-width: 100%;
@@ -2194,7 +2194,7 @@ progress {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #1f2021;
+  background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
   -webkit-appearance: none;
@@ -2216,7 +2216,7 @@ progress {
 }
 .form-control:focus {
   color: #212529;
-  background-color: #1f2021;
+  background-color: #fff;
   border-color: #ffe480;
   outline: 0;
   box-shadow: 0 0 0 0.25rem rgba(255, 200, 0, 0.25);
@@ -2414,7 +2414,7 @@ textarea.form-control-lg {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  background-color: #1f2021;
+  background-color: #fff;
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='M2 5l6 6 6-6'/%3e%3c/svg%3e");
   background-repeat: no-repeat;
   background-position: right 0.75rem center;
@@ -2480,7 +2480,7 @@ textarea.form-control-lg {
   height: 1em;
   margin-top: 0.25em;
   vertical-align: top;
-  background-color: #1f2021;
+  background-color: #fff;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
@@ -11472,7 +11472,7 @@ header.masthead .masthead-heading {
 }
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
   font-size: 1.25rem;
-  color: ;
+  color: white;
 }
 #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
   opacity: 1;
@@ -11587,7 +11587,7 @@ header.masthead .masthead-heading {
   height: 80px;
   margin-left: 0;
   text-align: center;
-  color: dark;
+  color: white;
   border: 7px solid #e9ecef;
   border-radius: 100%;
   background-color: #ffc800;
@@ -11719,13 +11719,13 @@ header.masthead .masthead-heading {
 }
 
 section#contact {
-  background-color: #1f2021;
+  background-color: #212529;
   background-image: url("../assets/img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
 }
 section#contact .section-heading {
-  color: #1f2021;
+  color: #fff;
 }
 section#contact form#contactForm .form-group {
   margin-bottom: 1.5rem;
